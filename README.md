@@ -16,4 +16,4 @@ The main focus was to get more comfortable with the vanilla JavaScript and -->
 
 Later I wish to add more personalised styling.
 
-A huge thanks to Ania Kubow and Scrimba for helping me learn to kode. 
+A huge thanks to Ania Kubow and Scrimba for helping me create this game. 
